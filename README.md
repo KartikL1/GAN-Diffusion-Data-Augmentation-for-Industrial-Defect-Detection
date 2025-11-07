@@ -1,5 +1,5 @@
-# GAN–Diffusion Data Augmentation for Industrial Defect Detection
-
+[# GAN–Diffusion Data Augmentation for Industrial Defect Detection
+](https://gan-diffusion-data-augmentation-for-industrial-defect-detectio.streamlit.app)
 This project combines **GAN** and **Diffusion models** to generate synthetic defect images for industrial quality inspection under data scarcity and imbalance conditions.
 
 ## Features
